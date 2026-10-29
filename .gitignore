@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 .env
 .env.*
 !.env.example
 node_modules/
 dist/
+=======
+﻿node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+/src/generated/prisma
+>>>>>>> e1a71da (initial commit)
